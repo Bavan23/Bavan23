@@ -6,9 +6,7 @@
 - 🔭 I’m currently focused on **Full-Stack + Machine Learning Projects**
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures & Algorithms, and Advanced Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Bavan23](https://github.com/Bavan23)
-
+  
 - 📫 How to reach me **bavan2312@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bavan23/](https://www.linkedin.com/in/bavan23/)
