@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bavankalyan P V</h1>
 <h3 align="center">FullStack Developer || Aspiring ML Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bavan23&label=Profile%20views&color=0e75b6&style=flat" alt="bavan23" /> </p>
 
 - 🔭 I’m currently focused on **Full-Stack + Machine Learning Projects**
 
