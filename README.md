@@ -73,6 +73,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bavan23" alt="bavan23" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bavan23" alt="Bavan23" />
 </p>
 
