@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bavankalyan P V</h1>
-<h3 align="center">FullStack Developer || Aspiring ML Engineer</h3>
+<h3 align="center">Aspiring Software Engineer || Full-Stack Developer || ML Enthusiast</h3>
 
 <br/>
 <table cellspacing="0" cellpadding="0" border="0">
