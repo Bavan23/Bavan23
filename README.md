@@ -119,3 +119,9 @@
          alt="Instagram" height="50" style="margin: 0 10px;"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"
+       alt="Thanks for visiting"
+       width="100%"/>
+</p>
