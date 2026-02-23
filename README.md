@@ -104,16 +104,18 @@
 
 ### 🔗 Connect with me  
 <p align="center">
-	<a href="https://github.com/Bavan23" target="_blank">
-		<img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>
-	</a>
-	<a href="https://www.linkedin.com/in/bavan23/" target="_blank">
-		<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
-	</a>
-	<a href="https://www.instagram.com/bavann._/" target="_blank">
-		<img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/>
-	</a>
-  <a href="https://twitter.com/Bavan_2312" target="_blank">
-  <img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
-</a>
+  <a href="https://github.com/Bavan23" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/000000/github.png"
+         alt="GitHub" height="50" style="margin: 0 10px;"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/bavan23/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"
+         alt="LinkedIn" height="50" style="margin: 0 10px;"/>
+  </a>
+
+  <a href="https://www.instagram.com/bavann._/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/000000/instagram.png"
+         alt="Instagram" height="50" style="margin: 0 10px;"/>
+  </a>
 </p>
