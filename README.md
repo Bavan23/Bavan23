@@ -2,21 +2,28 @@
 <h3 align="center">FullStack Developer || Aspiring ML Engineer</h3>
 
 <br/>
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="60%" valign="top">
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently focused on **Full-Stack + Machine Learning Projects**
 
-- 🌱 I’m currently learning **Machine Learning, Data Structures & Algorithms, and Advanced Backend Development**
-  
-- 📫 How to reach me **bavan2312@gmail.com**
+- 🔭 Focused on **Full-Stack + Machine Learning Projects**
+- 🌱 Learning **Machine Learning, DSA & Advanced Backend Development**
+- 📫 Reach me at **bavan2312@gmail.com**
+- 📄 Experiences: <a href="https://www.linkedin.com/in/bavan23/">LinkedIn</a>
+- ⚡ Fun fact: I mix playlists with debugging for max focus
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bavan23/](https://www.linkedin.com/in/bavan23/)
+    </td>
 
-- ⚡ Fun Fact **I mix playlists with debugging for maximum focus.**
-
-<p align="left">
-</p>
+    <td width="40%" align="center" valign="middle">
+      <img 
+        src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
+        height="260"
+      />
+    </td>
+  </tr>
+</table>
 <br/>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center"> 
