@@ -25,7 +25,7 @@
   </tr>
 </table>
 <br/>
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools :</h3>
 <p align="center"> 
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -96,7 +96,7 @@
 </p>
 <br/>
 
-### 🐍 My Contribution Graph Snake
+### 🐍 My Contribution Graph Snake :
 ![Snake animation](https://github.com/Bavan23/Bavan23/blob/output/snake.svg)
 
 <h3 align="left">📈   My Stats :</h3>
@@ -109,7 +109,7 @@
 | :-: | :-: |
 
 
-### 🔗 Connect with me  
+### 🔗 Connect with me :
 <p align="center">
   <a href="https://github.com/Bavan23" target="_blank">
     <img src="https://img.icons8.com/bubbles/50/000000/github.png"
