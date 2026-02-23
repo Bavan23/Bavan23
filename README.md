@@ -97,3 +97,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bavan23" alt="Bavan23" />
 </p>
+
+| ![Bavan Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bavan23&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bavan23&theme=github) |
+| :-: | :-: |
