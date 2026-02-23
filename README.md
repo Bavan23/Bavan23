@@ -100,3 +100,20 @@
 
 | ![Bavan Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bavan23&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bavan23&theme=github) |
 | :-: | :-: |
+
+
+### 🔗 Connect with me  
+<p align="center">
+	<a href="https://github.com/Bavan23" target="_blank">
+		<img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>
+	</a>
+	<a href="https://www.linkedin.com/in/bavan23/" target="_blank">
+		<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
+	</a>
+	<a href="https://www.instagram.com/bavann._/" target="_blank">
+		<img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/>
+	</a>
+  <a href="https://twitter.com/Bavan_2312" target="_blank">
+  <img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+</p>
