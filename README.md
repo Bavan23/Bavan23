@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bavankalyan P V</h1>
+<h1 align="center">Hi 👋, I'm Bavankalyan  V</h1>
 <h3 align="center">Aspiring Software Engineer || Full-Stack Developer || ML Enthusiast</h3>
 
 <br/>
